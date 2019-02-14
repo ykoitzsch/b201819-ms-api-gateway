@@ -1,0 +1,10 @@
+{
+  "simulation": "ProductDetail",
+  "simulationId": "productdetail",
+  "start": 1549721888009,
+  "description": "",
+  "scenarios": ["ProductDetail"],
+  "assertions": [
+
+  ]
+}

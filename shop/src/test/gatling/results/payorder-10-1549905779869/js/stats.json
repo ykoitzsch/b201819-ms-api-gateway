@@ -1,0 +1,317 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 30,
+        "ok": 30,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 18,
+        "ok": 18,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 457,
+        "ok": 457,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 233,
+        "ok": 233,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 149,
+        "ok": 149,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 287,
+        "ok": 287,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 352,
+        "ok": 352,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 428,
+        "ok": 428,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 456,
+        "ok": 456,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 30,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 7.5,
+        "ok": 7.5,
+        "ko": 0
+    }
+},
+"contents": {
+"req_getinvoices-0247c": {
+        "type": "REQUEST",
+        "name": "getInvoices",
+"path": "getInvoices",
+"pathFormatted": "req_getinvoices-0247c",
+"stats": {
+    "name": "getInvoices",
+    "numberOfRequests": {
+        "total": 10,
+        "ok": 10,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 185,
+        "ok": 185,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 371,
+        "ok": 371,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 318,
+        "ok": 318,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 60,
+        "ok": 60,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 346,
+        "ok": 346,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 363,
+        "ok": 363,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 371,
+        "ok": 371,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 371,
+        "ok": 371,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 10,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 2.5,
+        "ok": 2.5,
+        "ko": 0
+    }
+}
+    },"req_payorder-c28aa": {
+        "type": "REQUEST",
+        "name": "PayOrder",
+"path": "PayOrder",
+"pathFormatted": "req_payorder-c28aa",
+"stats": {
+    "name": "PayOrder",
+    "numberOfRequests": {
+        "total": 10,
+        "ok": 10,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 103,
+        "ok": 103,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 457,
+        "ok": 457,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 335,
+        "ok": 335,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 98,
+        "ok": 98,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 339,
+        "ok": 339,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 398,
+        "ok": 398,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 455,
+        "ok": 455,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 457,
+        "ok": 457,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 10,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 2.5,
+        "ok": 2.5,
+        "ko": 0
+    }
+}
+    },"req_getinvoicedetai-5fede": {
+        "type": "REQUEST",
+        "name": "getInvoiceDetail",
+"path": "getInvoiceDetail",
+"pathFormatted": "req_getinvoicedetai-5fede",
+"stats": {
+    "name": "getInvoiceDetail",
+    "numberOfRequests": {
+        "total": 10,
+        "ok": 10,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 18,
+        "ok": 18,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 100,
+        "ok": 100,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 46,
+        "ok": 46,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 24,
+        "ok": 24,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 39,
+        "ok": 39,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 54,
+        "ok": 54,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 90,
+        "ok": 90,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 98,
+        "ok": 98,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 10,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 2.5,
+        "ok": 2.5,
+        "ko": 0
+    }
+}
+    }
+}
+
+}

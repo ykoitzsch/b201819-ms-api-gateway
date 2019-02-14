@@ -1,0 +1,10 @@
+{
+  "simulation": "RateProducts",
+  "simulationId": "rateproducts-10",
+  "start": 1549905092021,
+  "description": "",
+  "scenarios": ["RateProducts"],
+  "assertions": [
+
+  ]
+}

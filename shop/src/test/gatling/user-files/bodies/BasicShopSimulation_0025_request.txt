@@ -1,0 +1,1 @@
+{"id":609,"invoiceId":609,"status":"COMPLETED","customerId":3,"totalPrice":5,"orderDate":"2019-02-11T17:35:26.931Z","productOrders":[{"id":117,"amount":5,"customerId":3,"productId":13,"completeOrder":{"id":609,"invoiceId":null,"status":"PENDING","customerId":3,"totalPrice":5,"orderDate":"2019-02-11T17:35:26.931Z"},"basket":null}]}
