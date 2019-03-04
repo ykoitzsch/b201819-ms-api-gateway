@@ -1,6 +1,6 @@
-# b201819-ms-api-gateway
+# b201819-ms-database-per-service
 
-This is an e-commerce application with a microservice-architecture and the api-gateway pattern implemented.
+This is an e-commerce application with a microservice-architecture and the database-per-service pattern implemented.
 There are a total of 5 microservices which are: 
 
   - Customer Service
